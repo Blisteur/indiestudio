@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Wood_Material
+Ns 147.291345
+Ka 1.000000 1.000000 1.000000
+Kd 0.188992 0.015311 0.007279
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 10.000000 source\\WoodenCubeNormals.png
+map_Kd textures\\WoodenCubeColour.png
